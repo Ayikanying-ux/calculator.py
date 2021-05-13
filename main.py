@@ -15,13 +15,13 @@ num2 = int((input("enter number2: ")))
 if choice == 1:
         addition(num1, num2)
         
-elif choice == 1:
+elif choice == 2:
         subtraction(num1, num2)
 
-elif choice == 1:
+elif choice == 3:
         multiplication(num1, num2)
 
-elif choice == 1:
+elif choice == 4:
         division(num1, num2)
 
 
